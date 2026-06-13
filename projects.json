@@ -1,5 +1,12 @@
 [
     {
+        "title": "Bug Rep",
+        "description": "A project built and managed on my GitHub.",
+        "category": "Code",
+        "tech": "Design",
+        "link": "https://github.com/Sreeraag-sree/bug-rep"
+    },
+    {
         "title": "Redesigned Train",
         "description": "A project built and managed on my GitHub.",
         "category": "Web",
